@@ -80,6 +80,15 @@ section {
 }
 /* Hero Style End */
 
+/* Hero Style Start */
+.hero-secondary {
+  background-image: url('../images/hero-bg.jpeg');
+  height: 600px;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
 .hero-form {
   border: 3px solid #024e76;
   background-color: #fce138;
