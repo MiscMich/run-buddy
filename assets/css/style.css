@@ -98,11 +98,12 @@ section {
   
   background-size: cover;
   background-position: center;
+
   
 }
 
 .hero-cta {
-  width: 35%
+  width: 35%;
   text-align: right;
   margin: 3.5%;
   color: #fff;
